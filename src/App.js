@@ -9,7 +9,7 @@ import "./app.css";
 import Footer from "./components/Footer";
 function App() {
   return (
-    <Router>
+    <Router basename='/crypto-app-react'>
       <Header />
       <Routes>
         <Route path="/" element={<Home />}/>
