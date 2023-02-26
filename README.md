@@ -1,5 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# crypto app using ReactJS | ink: https://vishalkashyap247.github.io/crypto-app-react
+## used ReactJS, ChakraUI, CoinGecko API | Features: real time data, Mobile Friendly
+<br/>
+<br/>
+### home page
+<div float="left">
+  <img src="https://user-images.githubusercontent.com/103761502/219568489-372b9482-3f40-47d0-95c4-3c485bec5eea.jpg" style=" width:220px ; height:500px; clear:right " >   <img src="https://user-images.githubusercontent.com/103761502/219569995-2d755443-f674-44d0-9019-baa952117508.jpg" style=" width:220px ; height:500px; clear:right " >
+</div>
+<br/>
+### exchange page
+<div float="left">
+  <img src="https://user-images.githubusercontent.com/103761502/219570555-fe70ccd0-ed9d-4330-b9c7-d4b1018acfd3.jpg" style=" width:220px ; height:500px; clear:right " >
+</div>
 
+<br/>
+### coin page top & bottom
+<div float="left">
+  <img src="https://user-images.githubusercontent.com/103761502/219570849-3a631b68-e473-40f4-811d-8f031ce08e2e.jpg" style=" width:220px ; height:500px; clear:right " >
+  <img src="https://user-images.githubusercontent.com/103761502/219570994-4b40b92a-86fc-424f-b73c-b977b9a284a3.jpg" style=" width:220px ; height:500px; clear:right " >
+</div>
+
+<br/>
+### by clicking on bitcoin | Detail of bitcoin with graph | we can select range for graph also currency switch is also available
+<div float="left">
+  <img src="https://user-images.githubusercontent.com/103761502/219571160-9f69c35c-e9bf-4f30-a1f5-130dd975b47b.jpg" style=" width:220px ; height:500px; clear:right " >
+  <img src="https://user-images.githubusercontent.com/103761502/219571298-45547f6e-43f0-41dd-b2c9-ba5d8e7b542f.jpg" style=" width:220px ; height:500px; clear:right " >
+  <img src="https://user-images.githubusercontent.com/103761502/219571701-5ec89be3-f0ce-42bf-abac-7460e6334a59.jpg" style=" width:220px ; height:500px; clear:right " >
+</div>
+<br/>
+<br/>
+## Extras default 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
